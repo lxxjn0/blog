@@ -7,14 +7,11 @@ const siteMetadata = {
   theme: 'system', // system, dark or light
   siteUrl: 'https://lxxjn0.vercel.app/',
   siteRepo: 'https://github.com/lxxjn0/blog',
-  siteLogo: '/static/images/logo.png',
+  siteLogo: '',
   image: '/static/images/profile.jpeg',
   socialBanner: '/static/images/twitter-card.png',
   email: 'address@yoursite.com',
   github: 'https://github.com/lxxjn0',
-  twitter: '',
-  facebook: '',
-  youtube: '',
   linkedin: 'https://www.linkedin.com/in/junyoung-lee-510530108/',
   locale: 'en-US',
   analytics: {
