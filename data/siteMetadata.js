@@ -1,7 +1,7 @@
 const siteMetadata = {
-  title: 'lxxjn0/devlog',
+  title: 'LXXJN0/DEVLOG',
   author: 'Junyoung Lee',
-  headerTitle: 'lxxjn0/devlog',
+  headerTitle: 'LXXJN0/DEVLOG',
   description: 'A blog about software engineering',
   language: 'en-us',
   theme: 'system', // system, dark or light
@@ -52,7 +52,7 @@ const siteMetadata = {
       // transparent_dark, preferred_color_scheme, custom
       theme: 'light',
       // Place the comment box above the comments. options: bottom, top
-      inputPosition: 'bottom',
+      inputPosition: 'top',
       // Choose the language giscus will be displayed in. options: en, es, zh-CN, zh-TW, ko, ja etc
       lang: 'en',
       // theme when dark mode
