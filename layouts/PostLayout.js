@@ -41,7 +41,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                   </dd>
                 </div>
               </dl>
-              <div>
+              <div className="mono-type">
                 <PageTitle>{title}</PageTitle>
               </div>
             </div>
