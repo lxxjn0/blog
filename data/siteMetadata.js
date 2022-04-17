@@ -5,7 +5,7 @@ const siteMetadata = {
   description: 'A blog about software engineering',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://lxxjn0-devlog.vercel.app',
+  siteUrl: 'https://lxxjn0.vercel.app/',
   siteRepo: 'https://github.com/lxxjn0/blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/profile.jpeg',
@@ -24,7 +24,7 @@ const siteMetadata = {
     plausibleDataDomain: '', // e.g. tailwind-nextjs-starter-blog.vercel.app
     simpleAnalytics: false, // true or false
     umamiWebsiteId: '', // e.g. 123e4567-e89b-12d3-a456-426614174000
-    googleAnalyticsId: 'G-JZNKL5WPHJ', // e.g. UA-000000-2 or G-XXXXXXX
+    googleAnalyticsId: 'G-K1F4Q3JN0S', // e.g. UA-000000-2 or G-XXXXXXX
   },
   newsletter: {
     // supports mailchimp, buttondown, convertkit, klaviyo, revue
