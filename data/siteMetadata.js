@@ -7,12 +7,15 @@ const siteMetadata = {
   theme: 'system', // system, dark or light
   siteUrl: 'https://lxxjn0.vercel.app/',
   siteRepo: 'https://github.com/lxxjn0/blog',
-  siteLogo: '',
+  siteLogo: '/static/images/newlogo.png',
   image: '/static/images/profile.jpeg',
-  socialBanner: '/static/images/twitter-card.png',
-  email: 'address@yoursite.com',
+  socialBanner: '/static/images/social.png',
+  email: 'ljy3510@gmail.com',
   github: 'https://github.com/lxxjn0',
+  facebook: '',
+  youtube: '',
   linkedin: 'https://www.linkedin.com/in/junyoung-lee-510530108/',
+  twitter: '',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
